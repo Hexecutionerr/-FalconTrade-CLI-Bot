@@ -106,8 +106,8 @@ tail -f trading.log
 **Hasnain Khan**  
 *Lead Developer & Architect*
 
-- [GitHub](https://github.com/hasnainkhan)
-- [LinkedIn](https://linkedin.com/in/hasnainkhan)
+- [GitHub](https://github.com/Hexecutionerr)
+- [LinkedIn](https://www.linkedin.com/in/hasnain-khan-0ab3b2320)
 
 ---
 ...
