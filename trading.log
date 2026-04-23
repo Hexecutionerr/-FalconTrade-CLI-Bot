@@ -1,0 +1,32 @@
+2026-04-23 01:19:50 - trading_bot - ERROR - Validation failed: Price is required and must be greater than zero for LIMIT orders.
+2026-04-23 12:29:53 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:29:53 - trading_bot - INFO - Simulator initialized. Current Balance: $10000.0
+2026-04-23 12:30:16 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:30:16 - trading_bot - INFO - Simulator initialized. Current Balance: $10000.0
+2026-04-23 12:30:17 - trading_bot - INFO - Attempting to place MARKET BUY order for BTCUSDT (Qty: 0.001)
+2026-04-23 12:30:17 - trading_bot - DEBUG - Order params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-23 12:30:18 - trading_bot - INFO - Order successfully placed! Order ID: SIM-1776927618
+2026-04-23 12:30:18 - trading_bot - DEBUG - API Response: {'orderId': 'SIM-1776927618', 'status': 'FILLED', 'symbol': 'BTCUSDT', 'executedQty': '0.001', 'avgPrice': '78238.11', 'type': 'MARKET', 'side': 'BUY'}
+2026-04-23 12:30:26 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:30:26 - trading_bot - INFO - Simulator initialized. Current Balance: $9921.76189
+2026-04-23 12:38:08 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:38:08 - trading_bot - INFO - Simulator initialized. Current Balance: $9921.76189
+2026-04-23 12:38:18 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:38:18 - trading_bot - INFO - Simulator initialized. Current Balance: $9921.76189
+2026-04-23 12:38:21 - trading_bot - INFO - Attempting to place MARKET BUY order for BTCUSDT (Qty: 0.001)
+2026-04-23 12:38:21 - trading_bot - DEBUG - Order params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-23 12:38:29 - trading_bot - INFO - Order successfully placed! Order ID: SIM-1776928109
+2026-04-23 12:38:29 - trading_bot - DEBUG - API Response: {'orderId': 'SIM-1776928109', 'status': 'FILLED', 'symbol': 'BTCUSDT', 'executedQty': '0.001', 'avgPrice': '78219.92', 'type': 'MARKET', 'side': 'BUY'}
+2026-04-23 12:40:46 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:40:46 - trading_bot - INFO - Simulator initialized. Current Balance: $9843.54197
+2026-04-23 12:41:00 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:41:00 - trading_bot - INFO - Simulator initialized. Current Balance: $9843.54197
+2026-04-23 12:41:11 - trading_bot - INFO - Attempting to place MARKET BUY order for BTCUSDT (Qty: 0.001)
+2026-04-23 12:41:11 - trading_bot - DEBUG - Order params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-23 12:41:12 - trading_bot - INFO - Order successfully placed! Order ID: SIM-1776928272
+2026-04-23 12:41:12 - trading_bot - DEBUG - API Response: {'orderId': 'SIM-1776928272', 'status': 'FILLED', 'symbol': 'BTCUSDT', 'executedQty': '0.001', 'avgPrice': '78225.31', 'type': 'MARKET', 'side': 'BUY'}
+2026-04-23 12:41:22 - trading_bot - INFO - API Keys missing. Falling back to Paper Trading (Simulator).
+2026-04-23 12:41:22 - trading_bot - INFO - Simulator initialized. Current Balance: $9765.31666
+2026-04-23 12:41:24 - trading_bot - INFO - Attempting to place LIMIT SELL order for ETHUSDT (Qty: 0.05)
+2026-04-23 12:41:24 - trading_bot - DEBUG - Order params: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.05, 'price': '2500.0', 'timeInForce': 'GTC'}
+2026-04-23 12:41:25 - trading_bot - ERROR - Unexpected error while placing order: Insufficient position to sell! Have 0.0 ETHUSDT

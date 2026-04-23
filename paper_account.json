@@ -1,0 +1,38 @@
+{
+    "balance": 9765.31666,
+    "positions": {
+        "BTCUSDT": 0.003
+    },
+    "history": [
+        {
+            "orderId": "SIM-1776927618",
+            "timestamp": "2026-04-23 12:30:18.681435",
+            "symbol": "BTCUSDT",
+            "side": "BUY",
+            "type": "MARKET",
+            "quantity": 0.001,
+            "price": 78238.11,
+            "status": "FILLED"
+        },
+        {
+            "orderId": "SIM-1776928109",
+            "timestamp": "2026-04-23 12:38:29.229798",
+            "symbol": "BTCUSDT",
+            "side": "BUY",
+            "type": "MARKET",
+            "quantity": 0.001,
+            "price": 78219.92,
+            "status": "FILLED"
+        },
+        {
+            "orderId": "SIM-1776928272",
+            "timestamp": "2026-04-23 12:41:12.560775",
+            "symbol": "BTCUSDT",
+            "side": "BUY",
+            "type": "MARKET",
+            "quantity": 0.001,
+            "price": 78225.31,
+            "status": "FILLED"
+        }
+    ]
+}
